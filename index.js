@@ -10,5 +10,5 @@ console.log(cowsay.say({
 }));
 
 for (let i = 0; i < 3; i++){
-    console.log(`${chalk.greenBright("\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\")}`);
+    console.log(`${chalk.greenBright("\\/\\/\\/\\/\\/\\/\\salim/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\")}`);
 }
