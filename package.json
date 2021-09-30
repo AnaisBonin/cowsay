@@ -1,0 +1,24 @@
+{
+  "name": "cow-say",
+  "version": "1.0.0",
+  "description": "Node.js quest with the WCS",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cowsay": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaisBonin/cowsay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaisBonin/cowsay/issues"
+  },
+  "homepage": "https://github.com/AnaisBonin/cowsay#readme"
+}
